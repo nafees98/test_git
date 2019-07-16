@@ -4,7 +4,7 @@
 
 3-create a database and import the file 'db_todotask.sql'
 
-4-Now you go to the config folder and open the database file and setup a database connetion according to your mysql configuration.
+4-Now go to the config folder and open the database file and setup a database connetion according to your mysql configuration.
 
 
 5- After that you can open the url and login with 
