@@ -15,7 +15,7 @@ password=> asdf
 
 
 In this TO DO List I have developed -<br>
-1-User Ragistration Form<br>
+1-User Registration Form<br>
 2- Login<br>
 3- User Dashboard <br>
 4-Task listing<br>
