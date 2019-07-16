@@ -21,7 +21,7 @@ In this TO DO List I have developed -<br>
 4-Task listing<br>
 5-Task Update <br>
 6-Logout<br>
-form
+
 
 
 <b>Note :- due to time limitations I have skip the form validation so please ignore the validation.</b>
